@@ -1,11 +1,11 @@
 {
-    "name": "strength_tracker",
-    "short_name": "strength_tracker",
+    "name": "Strength Tracker",
+    "short_name": "Strength",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "description": "Log exercises, weight, reps and sets for every workout session.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
